@@ -15,9 +15,13 @@ This project analyzes football (soccer) data from major European leagues using m
      - teams.csv
      - teamstats.csv
    - Place all CSV files in a directory named `Football Database`
+2. **Install Jupyter Notebook**
+   - Make sure to have Python (3.8 or higher) installed first
+   - Open terminal/command prompt and run: *pip install notebook*
+   - Launch Jupyter Notebook with: *jupyter notebook*
 
 2. **Load Data into SQLite**
-   - Run the Jupyter notebook
+   - Run the Jupyter notebook called 'EU Football SQL Project.ipynb'
    - The notebook will automatically create and populate the SQLite database
    - Verify successful data import through the table row count check
 
