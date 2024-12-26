@@ -74,9 +74,8 @@ Examples using Arsenal FC:
 - Player contribution analysis
 
 ## Technologies Used
-- **SQL**: Complex queries and data analysis
+- **SQL (SQLite)**: Complex queries, data analysis and Database management
 - **Python**: Data manipulation and analysis
-- **SQLite**: Database management
 - **Pandas**: Data processing and analysis
 - **Jupyter Notebook**: Development environment
 
