@@ -1,9 +1,11 @@
-# European Football Data Analysis Project
+# European Soccer Data Analysis Project
+
+![European Leagues Photo](Extension Packages/top-football-leagues-europe.png)
 
 ## Overview
 This project analyzes football (soccer) data from major European leagues using mainly SQL. The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
 
-## Technologies Used
+### Technologies Used
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
 - **Python (including Pandas)**: Data manipulation and analysis
 - **Jupyter Notebook**: Development environment
