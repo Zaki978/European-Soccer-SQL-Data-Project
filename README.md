@@ -1,6 +1,6 @@
 # European Soccer Data Analysis Project
 
-![European Leagues Photo](Extension Packages/top-football-leagues-europe.png)
+![European Leagues Photo](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/Extension Packages/top-football-leagues-europe.png)
 
 ## Overview
 This project analyzes football (soccer) data from major European leagues using mainly SQL. The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
