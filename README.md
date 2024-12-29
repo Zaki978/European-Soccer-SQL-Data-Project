@@ -10,6 +10,7 @@ This project analyzes football (soccer) data from major European leagues using m
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
 - **Python (including Pandas)**: Data manipulation and analysis
 - **Jupyter Notebook**: Development environment
+- **Tableau**: Creating charts and dashboards
 
 ## Setup and Usage
 1. **Get the Data**
