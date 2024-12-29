@@ -4,7 +4,7 @@
 ![European Leagues Photo v2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscore24.com%2Fhome%2Fthe-new-season-of-europes-top-football-leagues-what-to-expect%2F&psig=AOvVaw1JkPkdSusozB2kHHL7lTI0&ust=1735282761952000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIig65juxIoDFQAAAAAdAAAAABAT)
 
 ## Overview
-This project analyzes football (soccer) data from major European leagues using mainly SQL. The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
+This project analyzes football (soccer) data from major European leagues using mainly SQL and Tableau for data vizualization. The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
 
 ### Technologies Used
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
