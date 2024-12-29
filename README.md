@@ -67,6 +67,9 @@ The project utilizes a SQLite database containing seven interconnected tables:
 9. **Serie A had the highest average goals scored per team** across seasons at an average of 53.4 goals
 10. The highest average goals per game recorded across a season was in the **2019 Bundesliga season with 1.6 goals per game**
 
+## Data Visualization in Tableau available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
+
+
 ## Key Analyses
 
 ### 1. Team Performance Analysis
