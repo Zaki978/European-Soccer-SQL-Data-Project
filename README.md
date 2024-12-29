@@ -62,7 +62,9 @@ The project utilizes a SQLite database containing seven interconnected tables:
 5. Strong relationship between shots on target and shot conversion rate but weak relationship between red cards and total losses suffered by a team.
 6. Cagliari was the team with the highest loss rate of 48.68%, losing 56 matches out of 114 games across all seasons
 7. Barcelona had the largest goal difference of 470 whereas Granada has the smallest goal difference of -121 across all seasons. 
-8. Barcelona had the most shots on target across all seasons, reaching 44.01%. 
+8. Barcelona had the most shots on target across all seasons, reaching 44.01% overall.
+9. Serie A had the highest average goals scored per team during a season at an average of 53.4 goals.
+10. The highest average goals per game recorded across a season was in the 2019 Bundesliga season with 1.6 goals per game. 
 
 ## Key Analyses
 
