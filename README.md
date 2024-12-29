@@ -56,9 +56,13 @@ The project utilizes a SQLite database containing seven interconnected tables:
 
 ## Key Findings
 1. Premier League shows the highest average points gap (68.86) between top and bottom teams
-2. Manchester City dominated the 2017 season with 100 points
-3. Significant variation in league competitiveness across the five major European leagues
-4. Clear patterns in home vs. away performance across all leagues show a significant home field advantage, with home teams winning 1.47 times on average more often than away teams
+2. Manchester City dominated the 2017 Premier League season with 100 points
+3. Clear patterns in home vs. away performance across all leagues show a significant home field advantage, with home teams winning 1.47 times on average more often than away teams
+4. La Liga, Premier League, and Serie A each recorded the highest total matches played, with 2,660 games whereas Bundesliga has a total of 2,142 games.
+5. Strong relationship between shots on target and shot conversion rate but weak relationship between red cards and total losses suffered by a team.
+6. Cagliari was the team with the highest loss rate of 48.68%, losing 56 matches out of 114 games across all seasons
+7. Barcelona had the largest goal difference of 470 whereas Granada has the smallest goal difference of -121 across all seasons. 
+8. Barcelona had the most shots on target across all seasons, reaching 44.01%. 
 
 ## Key Analyses
 
