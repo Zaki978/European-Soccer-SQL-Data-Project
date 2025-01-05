@@ -75,7 +75,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 -  **Shots on Target Percentage (SOT%) and Shot Conversion Rate (SCR)**: strong relationship between the two suggesting each 1% increase in SOT% boosts SCR by approximately 0.58%
 -  **Total Red Cards and Total Losses**: Weak relationship suggesting other factors at play such as team skill, opponent strength, or gameplay strategy
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/League%20Home%20-%20Away%20Goals.png" alt="European Leagues Photo" width="375" height="200">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/League%20Home%20-%20Away%20Goals.png" alt="European Leagues Photo" width="400" height="200">
 
 
 
@@ -83,6 +83,8 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Goal-Scoring Patterns**: Overall more goals were scored at home, notably in the 2017 season with 54 home goals vs. 20 away goals.- Season-by-season performance metrics
 - **Top-scoring players**: Pierre-Emerick Aubameyang	was Arsenal's lead scorer with 64	in 114 matches, followed by Alexis Sánchez with 60 goals and Alexandre Lacazette	with 50 goals. 
 - **Offensive Stats**: Arsenal scored the most goals and had the most wins during the 2016 season with 77 goals and 23 wins. 
+
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Arsenal%20Performance%20Dashboard%20Snapshot.png" alt="European Leagues Photo" width="1100" height="550">
 
 ## Key Findings
 6. 
