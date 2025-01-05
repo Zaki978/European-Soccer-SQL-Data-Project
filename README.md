@@ -50,7 +50,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 ## Insights Deep Dive
 
 ### 1. League Competitiveness Analysis
-- Points gap between top and bottom teams: **Premier League** shows the highest average points gap (68.86) between top and bottom teams whilst Bundesliga shows the lowest at 59.00. 
+- **Points Gap**: Premier League has the highest average gap (68.86) between top and bottom teams, while Bundesliga has the lowest (59.00).
 - League-wide statistical comparisons
 - Analysis of championship diversity
 - Average points and performance metrics by league
@@ -69,13 +69,13 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - Detailed player statistics by team and season
 
 ### 4. Gameplay Patterns and Relationships
-- **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues.
+- **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues
+-  **Shots on Target Percentage (SOT%) and Shot Conversion Rate (SCR)**: strong relationship between the two suggesting each 1% increase in SOT% boosts SCR by approximately 0.58%
+-  **Total Red Cards and Total Losses**: Weak relationship suggesting other factors at play such as team skill, opponent strength, or gameplay strategy
 
 ### 5. Arsenal FC Specific Analysis
-Examples using Arsenal FC:
-- Home and away goal-scoring patterns
-- Season-by-season performance metrics
-- Player contribution analysis
+- **Goal-Scoring Patterns**: Overall more goals were scored at home, notably in the 2017 season with 54 home goals vs. 20 away goals.- Season-by-season performance metrics
+- **Top-scoring players**: Pierre-Emerick Aubameyang	was Arsenal's lead scorer with 64	in 114 matches, followed by Alexis Sánchez with 60 goals and Alexandre Lacazette	with 50 goals. 
 
 - 
 ## Key Findings
