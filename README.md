@@ -41,8 +41,9 @@ The dataset is organized as a relational database and includes football data fro
 You can download all tables in CSV format and access table schema information from the [Kaggle Football Dataset](https://www.kaggle.com/datasets/technika148/football-database/data?select=leagues.csv). 
 
 ## Results
+When evaluating league competitiveness, the Bundesliga stands out as one of the most competitive leagues, recording the highest average goals per game at 1.48 across all seasons, compared to Serie A's 1.41 in second place. However, the Bundesliga does not lead in average goals scored per team across seasons, with 50.19 goals compared to Serie A's 53.4. This disparity is likely due to Bundesliga teams playing fewer matches per season (34) compared to Serie A teams (38), providing Bundesliga teams with fewer opportunities to score goals. 
 
-In assessing league competitiveness, the Bundesliga has almost consistently had the highest average goals scored per game at 1.48 across all seasons, whereas Serie A's average is 1.41. That being said, the Bundesliga doesn't have the highest average goals scored per team across all seasons at 50.19, whereas the Seria A has 53.4. One likely reason for this disparity is due to the fact that Bundesliga teams play substantially fewer games in a season compared to Seria A teams, 34 vs 38. are substantially more Serie A games than Bundesliga games in a season because 
+Additionally, shot accuracy saw a notable increase during the 2020 season across all leagues, likely influenced by factors related to COVID-19, such as fewer matches or reduced pressure from empty stadiums. Lastly, Barcelona achieved the highest average shot accuracy at 44.01% and recorded the largest goal difference of 470 goals across all seasons.
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="900" height="500">
 
