@@ -3,7 +3,7 @@
 <img src="https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/assets/top-football-leagues-europe.png" alt="European Leagues Photo" width="600" height="300">
 
 ## Overview
-This project analyzes football (soccer) data from the 5 most famous European leagues across 7 seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in the global popularity of the sport. 
+This project analyzes football (soccer) data from the 5 most famous European leagues across 7 seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in contributing to the global popularity of the sport. The main technologies used in the project involve SQL for complex queries and Tableau for data visualization.
 
 The analysis focuses on the following key areas:
 - **League Comparisons and Trends**: Assessed league competitiveness through point gaps, shot conversion rates, average goals per game, and team scoring averages across seasons.
@@ -12,20 +12,33 @@ The analysis focuses on the following key areas:
 - **Gameplay Patterns and Relationships**: Investigated home vs. away performance, red cards vs. losses, and shot conversion rates vs. goals scored
 - **Arsenal FC Specific Analysis**: Examined Arsenal’s offensive stats, scoring trends, top-scoring players, goal differences, points per game, and season results
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link]
-A story can be found here 
+Three Interactive Tableau dashboards used to report and explore League comparisons and Arsenal's historical performance can be found below:
+- [European Soccer Leagues Dashboard 1](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesDashboardPart1/LeaguesDashboardPart1)
+- [European Soccer Leagues Dashboard 2](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesDashboardPart1/LeaguesDashboardPart2)
+- [Arsenal Historical Performance Dashboard](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/ArsenalHistoricPerformanceDashboard/ArsenalDashboard)
 
-using mainly SQL and Tableau for data visualization
-## Data Structure
+A Tableau story is used to walk through team, league and relationship level analysis can be found here [link](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesStoryAnalysis/StoryAnalysis)
 
 
-## Results
 
 ### Technologies Used
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
 - **Python**: Built a file-based database to load CSV files into tables and export query results to CSV files
 - **Jupyter Notebook**: Development environment
 - **Tableau**: Creating charts and dashboards
+
+## Database Structure
+The project utilizes a SQLite database containing seven interconnected tables:
+- **Appearances**: Player-specific match statistics
+- **Games**: Match details and results
+- **Leagues**: Information about the five major European leagues
+- **Players**: Player biographical data
+- **Shots**: Shot-specific statistics
+- **Teams**: Team information
+- **TeamStats**: Team performance metrics per match
+
+## Results
+
 
 ## Setup and Usage
 1. **Get the Data**
@@ -51,16 +64,6 @@ using mainly SQL and Tableau for data visualization
 
 3. **Run Analysis**
    - Execute the Jupyter Notebook cells in sequence
-
-## Database Structure
-The project utilizes a SQLite database containing seven interconnected tables:
-- **Appearances**: Player-specific match statistics
-- **Games**: Match details and results
-- **Leagues**: Information about the five major European leagues
-- **Players**: Player biographical data
-- **Shots**: Shot-specific statistics
-- **Teams**: Team information
-- **TeamStats**: Team performance metrics per match
 
 ## Key Findings
 1. **Premier League** shows the highest average points gap (68.86) between top and bottom teams
