@@ -53,7 +53,10 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Highest Average Goals**: The 2019 Bundesliga season recorded the highest average goals per game at 1.6.
 - **Points Gap**: The Premier League has the highest average gap (68.86) between top and bottom teams, while Bundesliga has the lowest (59.00)
 - **Total Games Held**: La Liga, Premier League, and Serie A each recorded the highest total matches played, with 2,660 games whereas Bundesliga has a total of 2,142 games
-![League Point Gaps Table](https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Point%20Gap%20by%20League.png)
+- 
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Point%20Gap%20by%20League.png" alt="Leagues Point Gaps" width="600" height="300">
+
+![League Point Gaps Table]()
 
 ### 2. Team Performance Analysis
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
