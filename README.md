@@ -45,7 +45,7 @@ When evaluating league competitiveness, the Bundesliga stands out as one of the 
 
 Additionally, shot accuracy saw a notable increase during the 2020 season across all leagues, likely influenced by factors related to COVID-19, such as fewer matches or reduced pressure from empty stadiums. Lastly, Barcelona achieved the highest average shot accuracy at 44.01% and recorded the largest goal difference of 470 goals across all seasons.
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="900" height="500">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="1000" height="550">
 
 ## Key Findings
 1. **Premier League** shows the highest average points gap (68.86) between top and bottom teams
