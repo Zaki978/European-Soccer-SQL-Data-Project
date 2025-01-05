@@ -70,12 +70,16 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Distribution of Average Goals**: The top quintile averaged 0.40 goals, while the bottom quintile averaged 0.08
 - **Highest Goals Per Game**: Robert Lewandowski had the highest goals per game at an average of 1.41 in the 2020 Bundesliga.  
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="400" height="250">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="400" height="300">
 
 ### 4. Gameplay Patterns and Relationships
 - **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues
 -  **Shots on Target Percentage (SOT%) and Shot Conversion Rate (SCR)**: strong relationship between the two suggesting each 1% increase in SOT% boosts SCR by approximately 0.58%
 -  **Total Red Cards and Total Losses**: Weak relationship suggesting other factors at play such as team skill, opponent strength, or gameplay strategy
+
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/League%20Home%20-%20Away%20Goals.png" alt="European Leagues Photo" width="400" height="300">
+
+
 
 ### 5. Arsenal FC Specific Analysis
 - **Goal-Scoring Patterns**: Overall more goals were scored at home, notably in the 2017 season with 54 home goals vs. 20 away goals.- Season-by-season performance metrics
