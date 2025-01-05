@@ -12,7 +12,6 @@ The analysis focuses on the following key areas:
 - **Gameplay Patterns and Relationships**: Investigated home vs. away performance, red cards vs. losses, and shot conversion rates vs. goals scored
 - **Arsenal FC Specific Analysis**: Examined Arsenal’s offensive stats, scoring trends, top-scoring players, goal differences, points per game, and season results
 
-
 The SQL queries used to inspect and clean the data for this analysis can be found here [SQL Script](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/EU%20Football%20SQL%20Project.ipynb).
 
 Below are three interactive Tableau dashboards for league comparisons and Arsenal's performance.
@@ -50,40 +49,40 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 ## Insights Deep Dive
 
 ### 1. League Competitiveness Analysis
-- **Highest Average Goals**: The 2019 Bundesliga season recorded the highest average goals per game at 1.6.
-- **Total Games Held**: La Liga, Premier League, and Serie A each recorded the highest number of total matches played, with 2,660 games, whereas the Bundesliga has a total of 2,142 games since each team plays 34 games per season as opposed to 38 in the other three leagues. 
-- **Points Gap**: The Premier League has the highest average point gap (68.86) between top and bottom teams, while the Bundesliga has the lowest (59.00). This ranking remained the same when calculating the gap between the top and bottom four teams, indicating that the disparity is consistent across a broader group, not just driven by a few standout teams. The larger average point gap in the Premier League suggests a more pronounced disparity between the strongest and weakest teams, where the strongest teams dominate, reducing competitiveness. The Bundesliga's smaller average point gap could signify a more balanced league; however, it is important to factor in that fewer games are played in the Bundesliga, and hence, teams earn fewer points per season, leading to smaller point gaps. 
+- **Highest Average Goals per Game**: The 2019 Bundesliga season recorded the highest average goals per game at 1.6
+- **Highest Average Goals per Team**: Serie A averaged 53.4 goals per team per season, while Ligue 1 had the lowest at 47.54.
+- **Total Games Held**: La Liga, Premier League, and Serie A each recorded the highest number of total matches played, with 2,660 games, whereas the Bundesliga has a total of 2,142 games since each team plays 34 games per season as opposed to 38 in the other three leagues
+- **Points Gap**: The Premier League has the highest average point gap (68.86) between top and bottom teams, while the Bundesliga has the lowest (59.00). This ranking remained the same when calculating the gap between the top and bottom four teams, indicating that the disparity is consistent across a broader group, not just driven by a few standout teams. The larger average point gap in the Premier League suggests a more pronounced disparity between the strongest and weakest teams, where the strongest teams dominate, reducing competitiveness. The Bundesliga's smaller average point gap could signify a more balanced league; however, it is important to factor in that fewer games are played in the Bundesliga, and hence, teams earn fewer points per season, leading to smaller point gaps generally.
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Point%20Gap%20by%20League.png" alt="Leagues Point Gaps" width="800" height="200">
 
 ### 2. Team Performance Analysis
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
 - **Premier League Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
-- **Highest loss rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons
+- **Highest Loss Rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons
 - **Most Goals Scored**: Real Madrid scored the most goals in a season in 2014 in La Liga, 118 goals in total, equivalent to 3.11 goals per game
 - **Goal Difference**: Barcelona achieved the highest goal difference (89) in the 2014 La Liga season, while Schalke 04 recorded the lowest (-61) in the 2020 Bundesliga season	
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Goal%20Difference%20by%20Season%20by%20Team.png" alt="Goal Difference by Season and Team" width="800" height="300">
 
-
 ### 3. Player Statistics
-- **Top goal scorers**: Lionel Messi scored the most goals (231), but Cristiano Ronaldo had a slightly higher goals-per-game rate (0.96 vs. Messi's 0.95) with 215 goals
+- **Top Goal Scorers**: Lionel Messi scored the most goals (231), but Cristiano Ronaldo had a slightly higher goals-per-game rate (0.96 vs. Messi's 0.95) with 215 goals
 - **Distribution of Average Goals**: The top quintile averaged 0.40 goals, while the bottom quintile averaged 0.08
-- **Highest Goals Per Game**: Robert Lewandowski had the highest goals per game in a season at an average of 1.41 in the 2020 Bundesliga season.  
+- **Highest Goals per Game**: Robert Lewandowski had the highest goals per game in a season at an average of 1.41 in the 2020 Bundesliga season.
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="400" height="300">
 
 ### 4. Gameplay Patterns and Relationships
-- **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues
+- **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues signifying significant support impact
 -  **Shots on Target Percentage (SOT%) and Shot Conversion Rate (SCR)**: A strong correlation indicates that a 1% increase in SOT% raises SCR by approximately 0.58%
 -  **Total Red Cards and Total Losses**: Weak relationship suggesting other factors considerable in causing losses, such as team skill, opponent strength, or gameplay strategy
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/League%20Home%20-%20Away%20Goals.png" alt="European Leagues Photo" width="400" height="200">
 
 ### 5. Arsenal FC Specific Analysis
-- **Goal-Scoring Patterns**: Overall more goals were scored at home, notably in the 2017 season with 54 home goals vs. 20 away goals.- Season-by-season performance metrics
-- **Top-scoring players**: Pierre-Emerick Aubameyang	was Arsenal's lead scorer with 64	in 114 matches, followed by Alexis Sánchez with 60 goals and Alexandre Lacazette	with 50 goals. 
-- **Offensive Stats**: Arsenal scored the most goals and had the most wins during the 2016 season with 77 goals and 23 wins. 
+- **Goal-Scoring Patterns**: Overall, more goals were scored at home, notably in the 2017 season with 54 home goals vs. 20 away goals.
+- **Top-scoring Players**: Pierre-Emerick Aubameyang	was Arsenal's lead scorer with 64	in 114 matches, followed by Alexis Sánchez with 60 goals and Alexandre Lacazette with 50 goals
+- **Offensive Stats**: Arsenal scored the most goals and had the most wins during the 2016 season with 77 goals and 23 wins
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Arsenal%20Performance%20Dashboard%20Snapshot.png" alt="European Leagues Photo" width="1100" height="550">
 
