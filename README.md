@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/assets/top-football-leagues-europe.png" alt="European Leagues Photo" width="600" height="300">
 
-## Overview
+## Project Background
 This project analyzes football (soccer) data from the five most famous European leagues across seven seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in contributing to the global popularity of the sport. The main technologies used in the project involve SQL for complex queries and Tableau for data visualization.
 
 The analysis focuses on the following key areas:
@@ -40,37 +40,12 @@ The dataset is organized as a relational database and includes football data fro
 
 You can download all tables in CSV format and access table schema information from the [Kaggle Football Dataset](https://www.kaggle.com/datasets/technika148/football-database/data?select=leagues.csv). 
 
-## Results
+## Overview of Findings
 When evaluating league competitiveness, the Bundesliga stands out as one of the most competitive leagues, recording the highest average goals per game at 1.48 across all seasons, compared to Serie A's 1.41 in second place. However, the Bundesliga does not lead in average goals scored per team across seasons, with 50.19 goals compared to Serie A's 53.4. This disparity is likely due to Bundesliga teams playing fewer matches per season (34) compared to Serie A teams (38), providing Bundesliga teams with fewer opportunities to score goals. 
 
 Additionally, shot accuracy saw a notable increase during the 2020 season across all leagues, likely influenced by factors related to COVID-19, such as fewer matches or reduced pressure from empty stadiums. Lastly, Barcelona achieved the highest average shot accuracy at 44.01% and recorded the largest goal difference of 470 goals across all seasons.
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="900" height="500">
-
-## Setup and Usage
-1. **Get the Data**
-   - 
-   - Download all CSV files from the dataset:
-     - appearances.csv
-     - games.csv
-     - leagues.csv
-     - players.csv
-     - shots.csv
-     - teams.csv
-     - teamstats.csv
-   - Place all CSV files in a directory named `Football Database`
-2. **Install Jupyter Notebook**
-   - Make sure to have Python (3.8 or higher) installed first
-   - Open terminal/command prompt and run: *pip install notebook*
-   - Launch Jupyter Notebook with: *Jupyter Notebook*
-
-2. **Load Data into SQLite**
-   - Run the Jupyter notebook called 'EU Football SQL Project.ipynb'
-   - The notebook will automatically create and populate the SQLite database
-   - Verify successful data import through the table row count check
-
-3. **Run Analysis**
-   - Execute the Jupyter Notebook cells in sequence
 
 ## Key Findings
 1. **Premier League** shows the highest average points gap (68.86) between top and bottom teams
