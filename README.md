@@ -70,7 +70,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Distribution of Average Goals**: The top quintile averaged 0.40 goals, while the bottom quintile averaged 0.08
 - **Highest Goals Per Game**: Robert Lewandowski had the highest goals per game at an average of 1.41 in the 2020 Bundesliga.  
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="400" height="200">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="400" height="250">
 
 ### 4. Gameplay Patterns and Relationships
 - **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues
