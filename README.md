@@ -10,9 +10,10 @@ This project analyzes football (soccer) data from the five most famous European 
 
 The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
 - **League Comparisons and Trends**: evaluated league competitiveness by calculating the point gap difference between top and bottom teams, shot conversion rates, average goals per game and average goals scored per team across seasons
-- **Team Dominance and Performance**: assessed goal difference, shots on target ranking, teams with the highest loss ratios, 
-- **Player Statistics**
-- **Gameplay Patterns and Relationships**
+- **Team Dominance and Performance**: calculated team season stats and results by season, assessed top scoring teams, winning teams and reigning champions for each league, calculated goal difference, ranked teams by shots on target and by loss ratios, 
+- **Player Statistics**: 10 players with the highest average goals scored per game, calculated the distribution of players across quintiles based on their average goals scored per game, generated comprehensive statistics of player performance
+- **Gameplay Patterns and Relationships** patterns in home vs. away performance across leagues, red cards vs losses and shot conversion rate vs goals scored
+- **Arsenal Club Specific Analysis**: analyzed Arsenal's home vs away goals scored, top scoring players, goal difference, average points per game and match results by season
 
 
 using mainly SQL and Tableau for data visualization
