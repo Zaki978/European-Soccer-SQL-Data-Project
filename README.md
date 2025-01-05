@@ -25,7 +25,7 @@ A Tableau story is used to walk through team, league and relationship level anal
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
 - **Python**: Built a file-based database to load CSV files into tables and export query results to CSV files
 - **Jupyter Notebook**: Development environment
-- **Tableau**: Creating charts and dashboards
+- **Tableau**: Creating charts, dashboards and stories
 
 ## Database Structure
 The project utilizes a SQLite database containing seven interconnected tables:
