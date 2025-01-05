@@ -85,9 +85,6 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Offensive Stats**: Arsenal scored the most goals and had the most wins during the 2016 season with 77 goals and 23 wins. 
 
 ## Key Findings
-1. 
-3. 
-4. 
 6. 
 7. **Barcelona had the largest goal difference** of 470 whereas Granada has the smallest goal difference of -121 across all seasons 
 
