@@ -45,7 +45,7 @@ When evaluating league competitiveness, the Bundesliga stands out as one of the 
 
 Additionally, shot conversion rates saw a notable increase during the 2020 season across all leagues, possibly influenced by factors related to COVID-19, such as fewer matches or reduced pressure from empty stadiums. Lastly, Barcelona achieved the highest average shot accuracy at 44.01% and recorded the largest goal difference of 470 goals across all seasons.
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="1000" height="550">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="1100" height="550">
 
 ## Insights Deep Dive
 
