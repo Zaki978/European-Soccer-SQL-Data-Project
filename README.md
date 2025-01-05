@@ -39,12 +39,14 @@ The dataset is structured as a relational database and contains football-related
 - **Teams**: Team information
 - **TeamStats**: Team performance metrics per match
 
+Please visit the [Kaggle Football Dataset](https://www.kaggle.com/datasets/technika148/football-database/data?select=leagues.csv) to download all tables in CSV format. 
+
 ## Results
 
 
 ## Setup and Usage
 1. **Get the Data**
-   - Visit Kaggle dataset: [Football Database](https://www.kaggle.com/datasets/technika148/football-database/data?select=leagues.csv)
+   - 
    - Download all CSV files from the dataset:
      - appearances.csv
      - games.csv
