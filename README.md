@@ -76,8 +76,8 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 ### 5. Arsenal FC Specific Analysis
 - **Goal-Scoring Patterns**: Overall more goals were scored at home, notably in the 2017 season with 54 home goals vs. 20 away goals.- Season-by-season performance metrics
 - **Top-scoring players**: Pierre-Emerick Aubameyang	was Arsenal's lead scorer with 64	in 114 matches, followed by Alexis Sánchez with 60 goals and Alexandre Lacazette	with 50 goals. 
+- **Offensive Stats**: Arsenal scored the most goals and had the most wins during the 2016 season with 77 goals and 23 wins. 
 
-- 
 ## Key Findings
 1. 
 2. **Manchester City** dominated the 2017 Premier League season with 100 points
