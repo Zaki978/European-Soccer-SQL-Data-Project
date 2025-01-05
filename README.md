@@ -4,11 +4,11 @@
 ![European Leagues Photo v2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscore24.com%2Fhome%2Fthe-new-season-of-europes-top-football-leagues-what-to-expect%2F&psig=AOvVaw1JkPkdSusozB2kHHL7lTI0&ust=1735282761952000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIig65juxIoDFQAAAAAdAAAAABAT)
 
 ## Overview
-This project analyzes football (soccer) data from major European leagues using mainly SQL and Tableau for data vizualization. The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
+This project analyzes football (soccer) data from major European leagues using mainly SQL and Tableau for data visualization. The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
 
 ### Technologies Used
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
-- **Python (including Pandas)**: Data manipulation and analysis
+- **Python**: Built a file-based database to load CSV files into tables and export query results to CSV files
 - **Jupyter Notebook**: Development environment
 - **Tableau**: Creating charts and dashboards
 
@@ -27,7 +27,7 @@ This project analyzes football (soccer) data from major European leagues using m
 2. **Install Jupyter Notebook**
    - Make sure to have Python (3.8 or higher) installed first
    - Open terminal/command prompt and run: *pip install notebook*
-   - Launch Jupyter Notebook with: *jupyter notebook*
+   - Launch Jupyter Notebook with: *Jupyter Notebook*
 
 2. **Load Data into SQLite**
    - Run the Jupyter notebook called 'EU Football SQL Project.ipynb'
