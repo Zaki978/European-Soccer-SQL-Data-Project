@@ -42,7 +42,7 @@ You can download all tables in CSV format and access table schema information fr
 
 ## Results
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="600" height="300">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="800" height="500">
 
 ## Setup and Usage
 1. **Get the Data**
