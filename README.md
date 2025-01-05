@@ -9,8 +9,10 @@ This project analyzes football (soccer) data from the five most famous European 
 ### Objectives
 
 The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
-- **League Comparisons and Trends**: evaluating league competitiveness by calculating the point gap difference between top and bottom teams, average goals per game and average goals scored per team across seasons
-- 
+- **League Comparisons and Trends**: evaluated league competitiveness by calculating the point gap difference between top and bottom teams, shot conversion rates, average goals per game and average goals scored per team across seasons
+- **Team Dominance and Performance**: assessed goal difference, shots on target ranking, teams with the highest loss ratios, 
+- **Player Statistics**
+- **Gameplay Patterns and Relationships**
 
 
 using mainly SQL and Tableau for data visualization
@@ -50,14 +52,6 @@ using mainly SQL and Tableau for data visualization
 3. **Run Analysis**
    - Execute the Jupyter Notebook cells in sequence
 
-## Data Sources
-The dataset includes comprehensive statistics from:
-- English Premier League
-- Spanish La Liga
-- German Bundesliga
-- Italian Serie A
-- French Ligue 1
-
 ## Database Structure
 The project utilizes a SQLite database containing seven interconnected tables:
 - **Appearances**: Player-specific match statistics
@@ -79,6 +73,7 @@ The project utilizes a SQLite database containing seven interconnected tables:
 8. **Barcelona had the most shots on target** across all seasons, reaching 44.01% overall
 9. **Serie A had the highest average goals scored per team** across seasons at an average of 53.4 goals
 10. The highest average goals per game recorded across a season was in the **2019 Bundesliga season with 1.6 goals per game**
+11. Conversation rates 
 
 ## Data Visualization in Tableau available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
 
