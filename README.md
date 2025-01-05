@@ -4,11 +4,14 @@
 ![European Leagues Photo v2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscore24.com%2Fhome%2Fthe-new-season-of-europes-top-football-leagues-what-to-expect%2F&psig=AOvVaw1JkPkdSusozB2kHHL7lTI0&ust=1735282761952000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIig65juxIoDFQAAAAAdAAAAABAT)
 
 ## Overview
-This project analyzes football (soccer) data from the five most popular European leagues from the 2014 to the 2020 seasons. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in the global popularity of the sport. 
+This project analyzes football (soccer) data from the five most famous European leagues across multiple seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in the global popularity of the sport. 
+
+### Objectives
 
 The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
+- **League Comparisons and Trends**: evaluating league competitiveness by calculating the point gap difference between top and bottom teams, average goals per game and average goals scored per team across seasons
+- 
 
-## Objectives
 
 using mainly SQL and Tableau for data visualization
 ## Data Structure
@@ -45,7 +48,7 @@ using mainly SQL and Tableau for data visualization
    - Verify successful data import through the table row count check
 
 3. **Run Analysis**
-   - Execute the Jupyter notebook cells in sequence
+   - Execute the Jupyter Notebook cells in sequence
 
 ## Data Sources
 The dataset includes comprehensive statistics from:
