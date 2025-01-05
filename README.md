@@ -59,8 +59,8 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 ### 2. Team Performance Analysis
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
 - **Premier League Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
-- **Highest Loss Rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons
-- **Most Goals Scored**: Real Madrid scored the most goals in a season in 2014 in La Liga, 118 goals in total, equivalent to 3.11 goals per game
+- **Highest Loss Rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons in Serie A
+- **Most Goals Scored**: Real Madrid scored the most goals in a season in 2014, 118 goals in total, equivalent to 3.11 goals per game
 - **Goal Difference**: Barcelona achieved the highest goal difference (89) in the 2014 La Liga season, while Schalke 04 recorded the lowest (-61) in the 2020 Bundesliga season	
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Goal%20Difference%20by%20Season%20by%20Team.png" alt="Goal Difference by Season and Team" width="800" height="300">
@@ -73,7 +73,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="400" height="300">
 
 ### 4. Gameplay Patterns and Relationships
-- **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues signifying significant support impact
+- **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues, signifying significant support impact
 -  **Shots on Target Percentage (SOT%) and Shot Conversion Rate (SCR)**: A strong correlation indicates that a 1% increase in SOT% raises SCR by approximately 0.58%
 -  **Total Red Cards and Total Losses**: Weak relationship suggesting other factors considerable in causing losses, such as team skill, opponent strength, or gameplay strategy
 
@@ -86,12 +86,13 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Arsenal%20Performance%20Dashboard%20Snapshot.png" alt="European Leagues Photo" width="1100" height="550">
 
-## Recommendations and Further Analysis
-Based on the insights and findings above, I would encourage others to consider exploring the following for further analysis:
-- exploring the effects of covid-19 during the 2020-2021 season
+## Recommendations for Further Analysis
+Based on the insights and findings above, I would encourage others to consider exploring the following areas for further analysis:
+- Exploring further the effects of COVID-19 during the 2020-2021 season, such as reducing home advantage, goals per game, points per game
 - Determining how well the expected goals (xG) estimate the actual number of goals (G) a player or a team has scored
-- Explore loss rates accounting for newly relegated teams to track how they perform in leagues below 
-
+- Analyzing top scorers/assisters in each league over time
+- Explore loss rates in greater detail by accounting for relegated teams to track their performance in lower leagues and their impact on league competitiveness over time
+- Incorporating more recent data to analyze the past four seasons that aren't included in the dataset
 
 ## Author
 Zaki Bouaoudia
