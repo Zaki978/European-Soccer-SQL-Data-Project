@@ -42,7 +42,9 @@ You can download all tables in CSV format and access table schema information fr
 
 ## Results
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="900" height="600">
+In assessing league competitiveness, the Bundesliga has almost consistently had the highest average goals scored per game at 1.48 across all seasons, whereas Serie A's average is 1.41. That being said, the Bundesliga doesn't have the highest average goals scored per team across all seasons at 50.19, whereas the Seria A has 53.4. One likely reason for this disparity is due to the fact that Bundesliga teams play substantially fewer games in a season compared to Seria A teams, 34 vs 38. are substantially more Serie A games than Bundesliga games in a season because 
+
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="900" height="500">
 
 ## Setup and Usage
 1. **Get the Data**
