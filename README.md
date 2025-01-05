@@ -56,25 +56,23 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Point%20Gap%20by%20League.png" alt="Leagues Point Gaps" width="800" height="200">
 
-![League Point Gaps Table]()
-
 ### 2. Team Performance Analysis
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
-- **Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
+- **Premier League Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
 - **Highest loss rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons
 - **Most Goals Scored**: Real Madrid scored the most goals in a season in 2014 in LaLiga 118 goals in total equivalent to 3.11 goals per game
 
 ### 3. Player Statistics
 - **Top goal scorers**: Lionel Messi scored the most goals (231), but Cristiano Ronaldo had a slightly higher goals-per-game rate (0.96 vs. Messi's 0.95) with 215 goals
 - **Distribution of Average Goals**: The top quintile averaged 0.40 goals, while the bottom quintile averaged 0.08
-- **Highest Goals Per Game**: Robert Lewandowski had the highest goals per game at an average of 1.41 in the 2020 Bundesliga.  
+- **Highest Goals Per Game**: Robert Lewandowski had the highest goals per game in a season at an average of 1.41 in the 2020 Bundesliga season.  
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="400" height="300">
 
 ### 4. Gameplay Patterns and Relationships
 - **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues
--  **Shots on Target Percentage (SOT%) and Shot Conversion Rate (SCR)**: strong relationship between the two suggesting each 1% increase in SOT% boosts SCR by approximately 0.58%
--  **Total Red Cards and Total Losses**: Weak relationship suggesting other factors at play such as team skill, opponent strength, or gameplay strategy
+-  **Shots on Target Percentage (SOT%) and Shot Conversion Rate (SCR)**: A strong correlation indicates that a 1% increase in SOT% raises SCR by approximately 0.58%
+-  **Total Red Cards and Total Losses**: Weak relationship suggesting other factors considerable in causing losses, such as team skill, opponent strength, or gameplay strategy
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/League%20Home%20-%20Away%20Goals.png" alt="European Leagues Photo" width="400" height="200">
 
