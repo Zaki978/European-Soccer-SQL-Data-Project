@@ -63,7 +63,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Most Goals Scored**: Real Madrid scored the most goals in a season in 2014 in La Liga, 118 goals in total, equivalent to 3.11 goals per game
 - **Goal Difference**: Barcelona achieved the highest goal difference (89) in the 2014 La Liga season, while Schalke 04 recorded the lowest (-61) in the 2020 Bundesliga season	
 
-<img src="Portfolio/blob/main/assets/Goal%20Difference%20by%20Season%20by%20Team.png" alt="Goal Difference by Season and Team" width="800" height="300">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Goal%20Difference%20by%20Season%20by%20Team.png" alt="Goal Difference by Season and Team" width="800" height="300">
 
 
 ### 3. Player Statistics
