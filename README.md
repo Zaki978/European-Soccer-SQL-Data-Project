@@ -3,7 +3,7 @@
 <img src="https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/assets/top-football-leagues-europe.png" alt="European Leagues Photo" width="600" height="300">
 
 ## Overview
-This project analyzes football (soccer) data from the 5 most famous European leagues across 7 seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in contributing to the global popularity of the sport. The main technologies used in the project involve SQL for complex queries and Tableau for data visualization.
+This project analyzes football (soccer) data from the five most famous European leagues across seven seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in contributing to the global popularity of the sport. The main technologies used in the project involve SQL for complex queries and Tableau for data visualization.
 
 The analysis focuses on the following key areas:
 - **League Comparisons and Trends**: Assessed league competitiveness through point gaps, shot conversion rates, average goals per game, and team scoring averages across seasons.
@@ -11,6 +11,7 @@ The analysis focuses on the following key areas:
 - **Player Statistics**: Highlighted top scorers, analyzed player distribution by scoring averages, and generated detailed performance metrics
 - **Gameplay Patterns and Relationships**: Investigated home vs. away performance, red cards vs. losses, and shot conversion rates vs. goals scored
 - **Arsenal FC Specific Analysis**: Examined Arsenal’s offensive stats, scoring trends, top-scoring players, goal differences, points per game, and season results
+
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/EU%20Football%20SQL%20Project.ipynb).
 
@@ -21,8 +22,6 @@ Three interactive Tableau dashboards used to report and explore league compariso
 
 A Tableau story is used to walk through team, league and relationship level analysis can be found here [link](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesStoryAnalysis/StoryAnalysis).
 
-
-
 ### Technologies Used
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
 - **Python**: Built a file-based database to load CSV files into tables and export query results to CSV files
@@ -30,7 +29,8 @@ A Tableau story is used to walk through team, league and relationship level anal
 - **Tableau**: Creating charts, dashboards and stories
 
 ## Database Structure
-The project utilizes a SQLite database containing seven interconnected tables:
+The dataset is structured as a relational database and contains football-related data covering the Top 5 leagues in Europe from 2014-2020. The dataset consists of seven tables: appearances, games, leagues, players, shots, teams, teamstats with a total row count of 726,906 records. A description of each table is as follows:
+
 - **Appearances**: Player-specific match statistics
 - **Games**: Match details and results
 - **Leagues**: Information about the five major European leagues
