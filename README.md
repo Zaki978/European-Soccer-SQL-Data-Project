@@ -5,8 +5,6 @@
 ## Overview
 This project analyzes football (soccer) data from the 5 most famous European leagues across 7 seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in the global popularity of the sport. 
 
-#### Objectives
-
 The analysis focuses on the following key areas:
 - **League Comparisons and Trends**: Assessed league competitiveness through point gaps, shot conversion rates, average goals per game, and team scoring averages across seasons.
 - **Team Dominance and Performance**: Analyzed season stats, identifying top-scoring teams, champions, goal differences, and rankings by shots on target and loss ratios
