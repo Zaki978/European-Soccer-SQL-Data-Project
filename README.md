@@ -15,12 +15,12 @@ The analysis focuses on the following key areas:
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [SQL Script](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/EU%20Football%20SQL%20Project.ipynb).
 
-Three interactive Tableau dashboards used to report and explore league comparisons and Arsenal's historical performance can be found below:
+Below are three interactive Tableau dashboards for league comparisons and Arsenal's performance.
 - [European Soccer Leagues Dashboard 1](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesDashboardPart1/LeaguesDashboardPart1)
 - [European Soccer Leagues Dashboard 2](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesDashboardPart2/LeagueDashboardPart2)
 - [Arsenal Historical Performance Dashboard](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/ArsenalHistoricPerformanceDashboard/ArsenalDashboard)
 
-A Tableau story is used to walk through team, league and relationship level analysis can be found here [Tableau Story](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesStoryAnalysis/StoryAnalysis).
+A Tableau story is used to walk through team, league and relationship level analysis and can be found here [Tableau Story](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesStoryAnalysis/StoryAnalysis).
 
 ### Technologies Used
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
@@ -50,13 +50,15 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 ## Insights Deep Dive
 
 ### 1. League Competitiveness Analysis
-- **Points Gap**: Premier League has the highest average gap (68.86) between top and bottom teams, while Bundesliga has the lowest (59.00).
+- **Points Gap**: The Premier League has the highest average gap (68.86) between top and bottom teams, while Bundesliga has the lowest (59.00)
 - League-wide statistical comparisons
 - Analysis of championship diversity
 - Average points and performance metrics by league
 
 ### 2. Team Performance Analysis
 - Calculation of points, wins, draws, and losses across seasons
+- **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
+- **Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
 - Goal scoring and conceding patterns
 - Home vs. away performance metrics
 - Season-by-season team rankings
@@ -80,7 +82,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 
 ## Key Findings
 1. 
-2. **Manchester City** dominated the 2017 Premier League season with 100 points
+2. **Manchester City**
 3. 
 4. **La Liga, Premier League, and Serie A** each recorded the highest total matches played, with 2,660 games whereas Bundesliga has a total of 2,142 games
 5. **Strong relationship between shots on target and shot conversion rate** but weak relationship between red cards and total losses suffered by a team
