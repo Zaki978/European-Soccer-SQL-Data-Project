@@ -43,14 +43,16 @@ You can download all tables in CSV format and access table schema information fr
 ## Overview of Findings
 When evaluating league competitiveness, the Bundesliga stands out as one of the most competitive leagues, recording the highest average goals per game at 1.48 across all seasons, compared to Serie A's 1.41 in second place. However, the Bundesliga does not lead in average goals scored per team across seasons, with 50.19 goals compared to Serie A's 53.4. This disparity is likely due to Bundesliga teams playing fewer matches per season (34) compared to Serie A teams (38), providing Bundesliga teams with fewer opportunities to score goals. 
 
-Additionally, shot conversion rates saw a notable increase during the 2020 season across all leagues, likely influenced by factors related to COVID-19, such as fewer matches or reduced pressure from empty stadiums. Lastly, Barcelona achieved the highest average shot accuracy at 44.01% and recorded the largest goal difference of 470 goals across all seasons.
+Additionally, shot conversion rates saw a notable increase during the 2020 season across all leagues, possibly influenced by factors related to COVID-19, such as fewer matches or reduced pressure from empty stadiums. Lastly, Barcelona achieved the highest average shot accuracy at 44.01% and recorded the largest goal difference of 470 goals across all seasons.
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/European%20Soccer%20League%20Dashboard%201.png" alt="European Leagues Photo" width="1000" height="550">
 
 ## Insights Deep Dive
 
 ### 1. League Competitiveness Analysis
+- **Highest Average Goals**: The 2019 Bundesliga season recorded the highest average goals per game at 1.6.
 - **Points Gap**: The Premier League has the highest average gap (68.86) between top and bottom teams, while Bundesliga has the lowest (59.00)
+- **Total Games Held**: La Liga, Premier League, and Serie A each recorded the highest total matches played, with 2,660 games whereas Bundesliga has a total of 2,142 games
 - League-wide statistical comparisons
 - Analysis of championship diversity
 - Average points and performance metrics by league
@@ -59,8 +61,10 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - Calculation of points, wins, draws, and losses across seasons
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
 - **Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
+- **Highest loss rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons
+- 
 - Goal scoring and conceding patterns
-- Home vs. away performance metrics
+
 - Season-by-season team rankings
 - Identification of league champions and defending champions
 
@@ -82,16 +86,11 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 
 ## Key Findings
 1. 
-2. **Manchester City**
 3. 
-4. **La Liga, Premier League, and Serie A** each recorded the highest total matches played, with 2,660 games whereas Bundesliga has a total of 2,142 games
-5. **Strong relationship between shots on target and shot conversion rate** but weak relationship between red cards and total losses suffered by a team
-6. **Cagliari was the team with the highest loss rate of 48.68%**, losing 56 matches out of 114 games across all seasons
+4. 
+6. 
 7. **Barcelona had the largest goal difference** of 470 whereas Granada has the smallest goal difference of -121 across all seasons 
-8. **Barcelona had the most shots on target** across all seasons, reaching 44.01% overall
-9. **Serie A had the highest average goals scored per team** across seasons at an average of 53.4 goals
-10. The highest average goals per game recorded across a season was in the **2019 Bundesliga season with 1.6 goals per game**
-11. Conversation rates 
+
 
 ## Data Visualization in Tableau available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
 
@@ -99,6 +98,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 Based on the insights and findings above, I would encourage others to consider exploring the following for further analysis:
 - exploring the effects of covid-19 during the 2020-2021 season
 - Determining how well the expected goals (xG) estimate the actual number of goals (G) a player or a team has scored
+- Explore loss rates accounting for newly relegated teams to track how they perform in leagues below 
 
 
 ## Author
