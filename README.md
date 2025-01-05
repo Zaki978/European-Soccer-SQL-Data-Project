@@ -1,10 +1,6 @@
 # European Soccer Data Analysis Project
 
-![European Leagues Photo](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/assets/top-football-leagues-europe.png)
-
 ![European Leagues Photo](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/assets/top-football-leagues-europe.png)
-
-![European Leagues Photo v2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fscore24.com%2Fhome%2Fthe-new-season-of-europes-top-football-leagues-what-to-expect%2F&psig=AOvVaw1JkPkdSusozB2kHHL7lTI0&ust=1735282761952000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIig65juxIoDFQAAAAAdAAAAABAT)
 
 ## Overview
 This project analyzes football (soccer) data from the five most famous European leagues across multiple seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in the global popularity of the sport. 
