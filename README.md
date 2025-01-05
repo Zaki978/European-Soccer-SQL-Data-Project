@@ -3,17 +3,19 @@
 <img src="https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/assets/top-football-leagues-europe.png" alt="European Leagues Photo" width="600" height="300">
 
 ## Overview
-This project analyzes football (soccer) data from the five most famous European leagues across multiple seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in the global popularity of the sport. 
+This project analyzes football (soccer) data from the 5 most famous European leagues across 7 seasons from 2014 until 2020. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in the global popularity of the sport. 
 
-### Objectives
+#### Objectives
 
-The analysis focuses on team performance metrics, player statistics, and league competitiveness across multiple seasons from 2014 until 2020.
-- **League Comparisons and Trends**: evaluated league competitiveness by calculating the point gap difference between top and bottom teams, shot conversion rates, average goals per game and average goals scored per team across seasons
-- **Team Dominance and Performance**: calculated team season stats and results by season, assessed top scoring teams, winning teams and reigning champions for each league, calculated goal difference, ranked teams by shots on target and by loss ratios, 
-- **Player Statistics**: 10 players with the highest average goals scored per game, calculated the distribution of players across quintiles based on their average goals scored per game, generated comprehensive statistics of player performance
-- **Gameplay Patterns and Relationships** patterns in home vs. away performance across leagues, red cards vs losses and shot conversion rate vs goals scored
-- **Arsenal Club Specific Analysis**: analyzed Arsenal's home vs away goals scored, top scoring players, goal difference, average points per game and match results by season
+The analysis focuses on the following key areas:
+- **League Comparisons and Trends**: Assessed league competitiveness through point gaps, shot conversion rates, average goals per game, and team scoring averages across seasons.
+- **Team Dominance and Performance**: Analyzed season stats, identifying top-scoring teams, champions, goal differences, and rankings by shots on target and loss ratios
+- **Player Statistics**: Highlighted top scorers, analyzed player distribution by scoring averages, and generated detailed performance metrics
+- **Gameplay Patterns and Relationships**: Investigated home vs. away performance, red cards vs. losses, and shot conversion rates vs. goals scored
+- **Arsenal FC Specific Analysis**: Examined Arsenal’s offensive stats, scoring trends, top-scoring players, goal differences, points per game, and season results
 
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link]
+A story can be found here 
 
 using mainly SQL and Tableau for data visualization
 ## Data Structure
