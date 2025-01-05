@@ -53,7 +53,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Highest Average Goals**: The 2019 Bundesliga season recorded the highest average goals per game at 1.6.
 - **Points Gap**: The Premier League has the highest average gap (68.86) between top and bottom teams, while Bundesliga has the lowest (59.00)
 - **Total Games Held**: La Liga, Premier League, and Serie A each recorded the highest total matches played, with 2,660 games whereas Bundesliga has a total of 2,142 games
-- 
+[https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Point%20Gap%20by%20League.png]
 
 ### 2. Team Performance Analysis
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
@@ -77,21 +77,12 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/League%20Home%20-%20Away%20Goals.png" alt="European Leagues Photo" width="400" height="200">
 
-
-
 ### 5. Arsenal FC Specific Analysis
 - **Goal-Scoring Patterns**: Overall more goals were scored at home, notably in the 2017 season with 54 home goals vs. 20 away goals.- Season-by-season performance metrics
 - **Top-scoring players**: Pierre-Emerick Aubameyang	was Arsenal's lead scorer with 64	in 114 matches, followed by Alexis Sánchez with 60 goals and Alexandre Lacazette	with 50 goals. 
 - **Offensive Stats**: Arsenal scored the most goals and had the most wins during the 2016 season with 77 goals and 23 wins. 
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Arsenal%20Performance%20Dashboard%20Snapshot.png" alt="European Leagues Photo" width="1100" height="550">
-
-## Key Findings
-6. 
-7. **Barcelona had the largest goal difference** of 470 whereas Granada has the smallest goal difference of -121 across all seasons 
-
-
-## Data Visualization in Tableau available on my [Tableau Public Profile](https://public.tableau.com/app/profile/zaki.bouaoudia4587/vizzes).
 
 ## Recommendations and Further Analysis
 Based on the insights and findings above, I would encourage others to consider exploring the following for further analysis:
