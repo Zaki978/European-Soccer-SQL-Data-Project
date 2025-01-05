@@ -53,12 +53,9 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Highest Average Goals**: The 2019 Bundesliga season recorded the highest average goals per game at 1.6.
 - **Points Gap**: The Premier League has the highest average gap (68.86) between top and bottom teams, while Bundesliga has the lowest (59.00)
 - **Total Games Held**: La Liga, Premier League, and Serie A each recorded the highest total matches played, with 2,660 games whereas Bundesliga has a total of 2,142 games
-- League-wide statistical comparisons
-- Analysis of championship diversity
-- Average points and performance metrics by league
+- 
 
 ### 2. Team Performance Analysis
-- Calculation of points, wins, draws, and losses across seasons
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
 - **Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
 - **Highest loss rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons
@@ -69,10 +66,9 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - Identification of league champions and defending champions
 
 ### 3. Player Statistics
-- Top goal scorers and their conversion rates
-- Player performance metrics (goals, assists, shots)
-- Statistical distribution of player performance (quintile analysis)
-- Detailed player statistics by team and season
+- **Top goal scorers**: Lionel Messi scored the most goals (231), but Cristiano Ronaldo had a slightly higher goals-per-game rate (0.96 vs. Messi's 0.95) with 215 goals
+- **Distribution of Average Goals**: The top quintile averaged 0.40 goals, while the bottom quintile averaged 0.08
+- **Highest Goals Per Game**: Robert Lewandowski had the highest goals per game at an average of 1.41 in the 2020 Bundesliga.  
 
 ### 4. Gameplay Patterns and Relationships
 - **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues
