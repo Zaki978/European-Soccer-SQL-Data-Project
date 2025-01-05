@@ -12,7 +12,7 @@ The analysis focuses on the following key areas:
 - **Gameplay Patterns and Relationships**: Investigated home vs. away performance, red cards vs. losses, and shot conversion rates vs. goals scored
 - **Arsenal FC Specific Analysis**: Examined Arsenal’s offensive stats, scoring trends, top-scoring players, goal differences, points per game, and season results
 
-Three Interactive Tableau dashboards used to report and explore League comparisons and Arsenal's historical performance can be found below:
+Three interactive Tableau dashboards used to report and explore league comparisons and Arsenal's historical performance can be found below:
 - [European Soccer Leagues Dashboard 1](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesDashboardPart1/LeaguesDashboardPart1)
 - [European Soccer Leagues Dashboard 2](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesDashboardPart1/LeaguesDashboardPart2)
 - [Arsenal Historical Performance Dashboard](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/ArsenalHistoricPerformanceDashboard/ArsenalDashboard)
