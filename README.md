@@ -59,9 +59,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
 - **Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
 - **Highest loss rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons
-- 
 - Goal scoring and conceding patterns
-
 - Season-by-season team rankings
 - Identification of league champions and defending champions
 
