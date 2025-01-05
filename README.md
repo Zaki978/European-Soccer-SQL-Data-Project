@@ -13,14 +13,14 @@ The analysis focuses on the following key areas:
 - **Arsenal FC Specific Analysis**: Examined Arsenal’s offensive stats, scoring trends, top-scoring players, goal differences, points per game, and season results
 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/EU%20Football%20SQL%20Project.ipynb).
+The SQL queries used to inspect and clean the data for this analysis can be found here [SQL Script](https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/EU%20Football%20SQL%20Project.ipynb).
 
 Three interactive Tableau dashboards used to report and explore league comparisons and Arsenal's historical performance can be found below:
 - [European Soccer Leagues Dashboard 1](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesDashboardPart1/LeaguesDashboardPart1)
 - [European Soccer Leagues Dashboard 2](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesDashboardPart2/LeagueDashboardPart2)
 - [Arsenal Historical Performance Dashboard](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/ArsenalHistoricPerformanceDashboard/ArsenalDashboard)
 
-A Tableau story is used to walk through team, league and relationship level analysis can be found here [link](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesStoryAnalysis/StoryAnalysis).
+A Tableau story is used to walk through team, league and relationship level analysis can be found here [Tableau Story](https://public.tableau.com/app/profile/zaki.bouaoudia4587/viz/EuropeanSoccerLeaguesStoryAnalysis/StoryAnalysis).
 
 ### Technologies Used
 - **SQL (SQLite)**: Complex queries, data analysis and Database management
