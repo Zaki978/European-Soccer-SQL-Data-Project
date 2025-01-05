@@ -51,8 +51,8 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 
 ### 1. League Competitiveness Analysis
 - **Highest Average Goals**: The 2019 Bundesliga season recorded the highest average goals per game at 1.6.
-- **Points Gap**: The Premier League has the highest average gap (68.86) between top and bottom teams, while Bundesliga has the lowest (59.00)
-- **Total Games Held**: La Liga, Premier League, and Serie A each recorded the highest total matches played, with 2,660 games whereas Bundesliga has a total of 2,142 games
+- **Points Gap**: The Premier League has the highest average gap (68.86) between top and bottom teams, while the Bundesliga has the lowest (59.00)
+- **Total Games Held**: La Liga, Premier League, and Serie A each recorded the highest total matches played, with 2,660 games, whereas Bundesliga has a total of 2,142 games
 
 <img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Point%20Gap%20by%20League.png" alt="Leagues Point Gaps" width="800" height="200">
 
@@ -60,7 +60,11 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Highest Points in a Season**: Manchester City dominated the 2017 Premier League season with a record 100 points
 - **Premier League Reigning Champion**: Manchester City won back-to-back Premier League titles in 2017 and 2018
 - **Highest loss rate**: Cagliari recorded the highest loss rate at 48.68%, losing 56 of 114 games across all seasons
-- **Most Goals Scored**: Real Madrid scored the most goals in a season in 2014 in LaLiga 118 goals in total equivalent to 3.11 goals per game
+- **Most Goals Scored**: Real Madrid scored the most goals in a season in 2014 in La Liga, 118 goals in total, equivalent to 3.11 goals per game
+- **Goal Difference**: Barcelona achieved the highest goal difference (89) in the 2014 La Liga season, while Schalke 04 recorded the lowest (-61) in the 2020 Bundesliga season	
+
+<img src="Portfolio/blob/main/assets/Goal%20Difference%20by%20Season%20by%20Team.png" alt="Goal Difference by Season and Team" width="800" height="300">
+
 
 ### 3. Player Statistics
 - **Top goal scorers**: Lionel Messi scored the most goals (231), but Cristiano Ronaldo had a slightly higher goals-per-game rate (0.96 vs. Messi's 0.95) with 215 goals
