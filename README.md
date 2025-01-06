@@ -84,7 +84,7 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Top-scoring Players**: Pierre-Emerick Aubameyang	was Arsenal's lead scorer with 64	in 114 matches, followed by Alexis Sánchez with 60 goals and Alexandre Lacazette with 50 goals
 - **Offensive Stats**: Arsenal scored the most goals and had the most wins during the 2016 season with 77 goals and 23 wins
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Arsenal%20Performance%20Dashboard%20Snapshot.png" alt="European Leagues Photo" width="1000" height="550">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Arsenal%20Performance%20Dashboard%20Snapshot.png" alt="European Leagues Photo" width="1000" height="500">
 
 ## Recommendations for Further Analysis
 Based on the insights and findings above, I would encourage others to consider exploring the following areas for further analysis:
