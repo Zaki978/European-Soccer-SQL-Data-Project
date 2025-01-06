@@ -28,7 +28,7 @@ A Tableau story is used to walk through team, league and relationship level anal
 - **Tableau**: Creating charts, dashboards and stories
 
 ## Database Structure
-The dataset is organized as a relational database and includes football data from Europe’s Top 5 leagues spanning 2014–2020. It comprises seven tables —appearances, games, leagues, players, shots, teams, and teamstats — with a total of 726,906 records. The tables are described as follows:
+The dataset is organized as a relational database and includes football data from Europe’s Top 5 leagues spanning 2014–2020. It comprises seven tables —`appearances`, `games`, `leagues`, `players`, `shots`, `teams`, and `teamstats` — with a total of 726,906 records. The tables are described as follows:
 - **Appearances**: Player-specific match statistics
 - **Games**: Match details and results
 - **Leagues**: Information about the five major European leagues
