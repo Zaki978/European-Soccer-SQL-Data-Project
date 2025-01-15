@@ -63,21 +63,21 @@ Additionally, shot conversion rates saw a notable increase during the 2020 seaso
 - **Most Goals Scored**: Real Madrid scored the most goals in a season in 2014, 118 goals in total, equivalent to 3.11 goals per game
 - **Goal Difference**: Barcelona achieved the highest goal difference (89) in the 2014 La Liga season, while Schalke 04 recorded the lowest (-61) in the 2020 Bundesliga season	
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Goal%20Difference%20by%20Season%20by%20Team.png" alt="Goal Difference by Season and Team" width="800" height="300">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Goal%20Difference%20by%20Season%20by%20Team.png" alt="Goal Difference by Season and Team" width="900" height="350">
 
 ### 3. Player Statistics
 - **Top Goal Scorers**: Lionel Messi scored the most goals (231), but Cristiano Ronaldo had a slightly higher goals-per-game rate (0.96 vs. Messi's 0.95) with 215 goals
 - **Distribution of Average Goals**: The top quintile averaged 0.40 goals, while the bottom quintile averaged 0.08
 - **Highest Goals per Game**: Robert Lewandowski had the highest goals per game in a season at an average of 1.41 in the 2020 Bundesliga season
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="400" height="300">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/Top%20Scoring%20Players.png" alt="European Leagues Photo" width="450" height="325">
 
 ### 4. Gameplay Patterns and Relationships
 - **Home Advantage**: Home teams win on average 1.47 times more often than away teams across all leagues, signifying significant support impact
 -  **Shots on Target Percentage (SOT%) and Shot Conversion Rate (SCR)**: A strong correlation indicates that a 1% increase in SOT% raises SCR by approximately 0.58%
 -  **Total Red Cards and Total Losses**: Weak relationship suggesting other factors considerable in causing losses, such as team skill, opponent strength, or gameplay strategy
 
-<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/League%20Home%20-%20Away%20Goals.png" alt="European Leagues Photo" width="400" height="200">
+<img src="https://github.com/Zaki978/Project-Portfolio/blob/main/assets/League%20Home%20-%20Away%20Goals.png" alt="European Leagues Photo" width="450" height="225">
 
 ### 5. Arsenal FC Specific Analysis
 - **Goal-Scoring Patterns**: Overall, more goals were scored at home, notably in the 2017 season with 54 home goals vs. 20 away goals
