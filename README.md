@@ -3,7 +3,7 @@
 <img src="https://github.com/Zaki978/European-Soccer-SQL-Data-Project/blob/main/assets/top-football-leagues-europe.png" alt="European Leagues Photo" width="600" height="300">
 
 ## Project Background
-This project analyzes football (soccer) data from the **five most famous European leagues** across **seven seasons from 2014 until 2020**. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe and play a crucial role in contributing to the global popularity of the sport. The main technologies used in the project involve SQL for complex queries and Tableau for data visualization.
+This project analyzes football (soccer) data from the **five most famous European leagues** across **seven seasons from 2014 until 2020**. These European soccer leagues include the Premier League (England), Serie A (Italy), Bundesliga (Germany), La Liga (Spain), and Ligue 1 (France). Within these leagues are professional football clubs that compete in various domestic leagues and international tournaments across Europe, playing a crucial role in the popularity of the sport. The primary goal of this project is to assess league competitiveness and analyze performance trends of clubs and players, utilizing SQL for advanced queries and Tableau for data visualization.
 
 The analysis focuses on the following key areas:
 - **League Comparisons and Trends**: Assessed league competitiveness through point gaps, shot conversion rates, average goals per game, and team scoring averages across seasons.
